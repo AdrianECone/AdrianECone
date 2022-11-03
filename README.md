@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrianECone
+- 👋 Hi, I’m @Adrian
 - 👀 I’m interested in ...math,philosophy,math-philosophy,and computer science.
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...learn C++ better
